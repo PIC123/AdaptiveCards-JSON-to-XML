@@ -1,1 +1,1 @@
-# AdaptiveCards-JSON-to-XML
+# AdaptiveCards-XML-toJSON
